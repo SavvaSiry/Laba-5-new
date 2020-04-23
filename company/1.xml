@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ListCity>
+    <City>
+        <name>YS</name>
+        <coordinates>
+            <x>3.0</x>
+            <y>5</y>
+        </coordinates>
+        <area>123</area>
+        <population>23000990</population>
+        <metersAboveSeaLevel>115.0</metersAboveSeaLevel>
+        <capital>false</capital>
+        <agglomeration>65</agglomeration>
+        <climate>TUNDRA</climate>
+        <governor>SAVVA SIRY</governor>
+    </City>
+    <City>
+        <name>SSSSS</name>
+        <coordinates>
+            <x>123.0</x>
+            <y>123</y>
+        </coordinates>
+        <area>20</area>
+        <population>230000</population>
+        <metersAboveSeaLevel>115.0</metersAboveSeaLevel>
+        <capital>true</capital>
+        <agglomeration>65</agglomeration>
+        <climate>TUNDRA</climate>
+        <governor>Anatoli Novikov</governor>
+    </City>
+</ListCity>
